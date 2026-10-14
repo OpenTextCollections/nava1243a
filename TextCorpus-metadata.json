@@ -5,17 +5,17 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Christian Döhler (ed.), Speaking the map: Komnzo Texts (Open Text Collections 1). Berlin: Language Science Press. https://zenodo.org/records/14214653",
+    "dc:bibliographicCitation": "Denk, Lukas & Chee, Melvatha. 2026. Nine Navajo narratives. (Open Text Collections 10). Berlin: Language Science Press. DOI: 10.5281/zenodo.20522183",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TextCorpus",
-    "dc:description": "This collection of fourteen texts in Komnzo offers an insight into the language and culture of the Farem people, their storytelling tradition, oral history, mythology and everyday life. It contains stories from nine narrators, which were transcribed, translated and analysed by the researcher with the help of the Komnzo language committee. All texts are presented in a parallel text version arranged in columns (Komnzo/English) and in an interlinearised and glossed version. The book focuses thematically on landscape, place names and locality. It includes a description and analysis of the way Komnzo speakers conceptualise this semantic domain.\nThis publication is complemented by a dataset available from https://doi.org/10.5281/zenodo.14267762",
-    "dc:identifier": "wara1294a",
+    "dc:description": "Éí bik'ehgo kééhwiit'į́. 'In accord with that, we live.' So speaks a medicine man after recounting how the four sacred mountains were set in place to anchor the world of the Diné. To live in accord with something is to know where you stand, even when the ground shifts. And the ground shifted constantly across the late 19th and early 20th centuries: at Round Rock where armed men faced down U.S. cavalry; in the canyons where boys fled from bears; in the corrals from which sheep were driven away by government agents; in the frozen winter when pilots dropped hay through fog to save starving communities. Nine Navajo Narratives captures these moments through nine annotated texts: three firsthand accounts of the 1892 "Trouble at Round Rock" over forced boarding schools; a sacred creation story; a traditional tale explaining a mother-in-law custom; a testimony of relief flights during the blizzard of 1949; a vivid childhood narrative of adventure and taboo; and two fierce political critiques of the devastating livestock reduction policies of the 1930s. Drawn from the foundational collections of Young and Morgan, all texts are presented in parallel translation with full interlinear glossing and an introductory grammar sketch—an essential resource for understanding Navajo history, language, and survival.",
+    "dc:identifier": "nava1243a",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "Speaking the map: Komnzo texts ",
-    "dcat:accessURL": "https://doi.org/10.5281/zenodo.14267762",
+    "dc:title": "Nine Navajo narratives",
+    "dcat:accessURL": "https://doi.org/10.5281/zenodo.21377033",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/OpenTextCollections/wara1294a",
+            "rdf:about": "https://github.com/OpenTextCollections/nava1243a",
             "rdf:type": "prov:Entity",
             "dc:created": "v1.1",
             "dc:title": "Repository"
@@ -31,13 +31,13 @@
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "wara1294a",
+    "rdf:ID": "nava1243a",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
             "dc:description": "Annotated clauses of the texts in the collection.",
-            "dc:extent": 1970,
+            "dc:extent": 1429,
             "tableSchema": {
                 "columns": [
                     {
@@ -163,7 +163,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
             "dc:description": "A collection of texts from one language, with shared provenance.",
-            "dc:extent": 8,
+            "dc:extent": 9,
             "tableSchema": {
                 "columns": [
                     {
@@ -241,7 +241,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
             "dc:description": "Media resources for the texts.",
-            "dc:extent": 3,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
