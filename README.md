@@ -1,4 +1,4 @@
-# Open Text Collections 10
+# Open Text Collections #10
 ## Navajo texts
 
 This collection features 9 texts from the Navajo language, spoken in Northern America. 
